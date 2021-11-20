@@ -1,1 +1,3 @@
-# Financial-Econometrics
+In this report, I have taken the adjusted close prices for the company “GE Power India Limited” listed on Bombay Stock Exchange (BSE) dated from 1st September 2020 to 30th September 2021. Daily Simple stock returns and log returns are calculated in Microsoft Excel.
+
+The report contains: • Descriptive Statistics of stock price and daily stock returns. • Exploratory Data Analysis (EDA) of the Stock Price and stock returns. • Density plot and QQ plot to check normality of data. • Statistical tests like Shapiro-Wilk’s test, Anderson-Darling test and Kolmogorov-Smirnov test is conducted on the data to check normality. • A function is defined to calculate auto-correlation for Simple stock returns where lag value can be specified by the user and ACF plot (correlelogram) can be plotted.
